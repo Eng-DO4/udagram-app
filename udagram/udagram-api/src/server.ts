@@ -54,7 +54,7 @@ import { config } from "./config/config";
   // Start the Server
   app.listen(port, () => {
     console.log(`Backend server is listening on port ${port}....`);
-    console.log(`Frontent server running ${config.url}:${port}`);
+    console.log(`Frontent server running ${config.url}`);
     console.log(`press CTRL+C to stop server`);
   });
 })();
