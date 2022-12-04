@@ -8,5 +8,5 @@ export AWS_BUCKET=arn:aws:s3:::aws-dr4-bucket
 export AWS_REGION=us-east-1
 export AWS_PROFILE=AKIA4VZKKPNE63R2PRMH
 export JWT_SECRET=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
-export URL=
+export URL=http://udagram-app-dev.us-east-1.elasticbeanstalk.com/api/v0
 export PORT=5432
